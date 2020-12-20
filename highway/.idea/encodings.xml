@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dataset/数据说明.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/高速公路流水数据匹配规则说明.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/高速公路通行流水字段说明.txt" charset="GBK" />
+  </component>
+</project>
